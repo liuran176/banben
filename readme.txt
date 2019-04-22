@@ -1,7 +1,3 @@
-git is a version control system
-git is free software. 
+12345
 
-di yi ci xiu gai    111111
-
-
-fenzhi 
+fen1
